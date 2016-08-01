@@ -47,4 +47,4 @@ Pictures of course engagements, standalone projects, and developing stuff -  Sar
 * ![Bellwethe](http://repository.upenn.edu/assets/md5images/d4798301147d16a8bfdbdcd485f24a16.gif "Bellwether Magaine") [Bellwether](http://repository.upenn.edu/bellwether/)
 
 ##Other ideas
-* Include events - major/annual events (e.g., OA week, Open Data Day, etc.) or more minor events that we do (e.g., workshops)
+* Include an events section - major/annual events (e.g., OA week, Open Data Day, etc.) or more minor events that we do (e.g., workshops)
