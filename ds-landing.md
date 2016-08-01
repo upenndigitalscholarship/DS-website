@@ -36,8 +36,7 @@ Pictures of course engagements, standalone projects, and developing stuff -  Sar
 ###Possible projects
 
 * [Penn Museum Archives Foreign Language Toolkit](http://pmarchivesfltoolkit.omeka.net/)
-  * ![HAN](http://repository.upenn.edu/assets/md5images/d8e28f79c124341c07c1395d37e504ed.gif "Histor of Anthropology Newsletter")
-* [History of Anthropology Newsletter on ScholarlyCommons](http://repository.upenn.edu/han/)
+* ![HAN](http://repository.upenn.edu/assets/md5images/d8e28f79c124341c07c1395d37e504ed.gif "Histor of Anthropology Newsletter")[History of Anthropology Newsletter on ScholarlyCommons](http://repository.upenn.edu/han/)
 * [ArcGIS: An Introduction](http://guides.library.upenn.edu/introtoarcgis) This is a placeholder for Deborah.
 * [Magazine of Early American Datasets](http://repository.upenn.edu/mead/)
 * Lexis Nexis API
@@ -45,7 +44,7 @@ Pictures of course engagements, standalone projects, and developing stuff -  Sar
 * Arcana
 * Scott's class about ships with what's-her-name
 * [TTCSP Global Go To Think Tank Index Reports](http://repository.upenn.edu/think_tanks/)
-* [Bellwether](http://repository.upenn.edu/bellwether/)
+* ![Bellwethe](http://repository.upenn.edu/assets/md5images/d4798301147d16a8bfdbdcd485f24a16.gif "Bellwether Magaine")[Bellwether](http://repository.upenn.edu/bellwether/)
 
 ##Other ideas
 * Include events - major/annual events (e.g., OA week, Open Data Day, etc.) or more minor events that we do (e.g., workshops)
