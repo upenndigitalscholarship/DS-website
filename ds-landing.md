@@ -15,12 +15,12 @@ We are: Seven full-time library staffmembers, student workers, and a connected n
 
 * Contact us to create websites and exhibits to share/publish your research (Laurie and Scott)
 * Application and tool deployment (and developement) (Github plus readme. Laurie, Scott, and Sasha)
-* Classroom application of digital methodologies  (Wic Page - Sarah & Sasha)
+* [Classroom application of digital methodologies](http://commons.library.upenn.edu/new-media-showcase "WIC New Media Showcase")  (Wic Page - Sarah & Sasha)
 
 ## Data Management and Planning
 
 * Contact us for Data and project planning (Laurie & Scott)
-* Data storage and publishing (Data repositories page -- Sarah)
+* [Data storage and publishing](http://guides.library.upenn.edu/dmp/datarepos "Data Management Plans Guide: Data Repositories") (Data repositories page -- Sarah)
 * Data Management Plan Tools (for grant applications) (Laurie)
 
 ## Developing ;) (get it?) Research Methods
