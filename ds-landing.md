@@ -14,7 +14,7 @@ We are: Seven full-time library staffmembers, student workers, and a connected n
 ## Digital Project Development
 
 * Contact us to create websites and exhibits to share/publish your research (Laurie and Scott)
-* Application and tool deployment (and developement) (Github plus readme. Laurie, Scott, and Sasha)
+* [Application and tool deployment & development](https://github.com/upenndigitalscholarship "Penn Digital Scholarship Github") (Github plus readme. Laurie, Scott, and Sasha)
 * [Classroom application of digital methodologies](http://commons.library.upenn.edu/new-media-showcase "WIC New Media Showcase")  (Wic Page - Sarah & Sasha)
 
 ## Data Management and Planning
