@@ -32,3 +32,19 @@ We are: Seven full-time library staffmembers, student workers, and a connected n
 
 ## Examples
 Pictures of course engagements, standalone projects, and developing stuff -  Sarah & Sasha
+
+###Possible projects
+
+* [Penn Museum Archives Foreign Language Toolkit](http://pmarchivesfltoolkit.omeka.net/)
+* [History of Anthropology Newsletter on ScholarlyCommons](http://repository.upenn.edu/han/)
+* [ArcGIS: An Introduction](http://guides.library.upenn.edu/introtoarcgis) This is a placeholder for Deborah.
+* [Magazine of Early American Datasets](http://repository.upenn.edu/mead/)
+* Lexis Nexis API
+* Schuykill River Corps Project
+* Arcana
+* Scott's class about ships with what's-her-name
+* [TTCSP Global Go To Think Tank Index Reports](http://repository.upenn.edu/think_tanks/)
+* [Bellwether](http://repository.upenn.edu/bellwether/)
+
+##Other ideas
+* Include events - major/annual events (e.g., OA week, Open Data Day, etc.) or more minor events that we do (e.g., workshops)
