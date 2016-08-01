@@ -35,7 +35,7 @@ Pictures of course engagements, standalone projects, and developing stuff -  Sar
 
 ###Possible projects
 
-* [Penn Museum Archives Foreign Language Toolkit](http://pmarchivesfltoolkit.omeka.net/)
+* ![alt text](https://github.com/upenndigitalscholarship/DS-website/blob/master/foreign_lang_toolkit.jpg?raw=true "Penn Museum Archives Foreign Language Toolkit")[Penn Museum Archives Foreign Language Toolkit](http://pmarchivesfltoolkit.omeka.net/)
 * ![HAN](http://repository.upenn.edu/assets/md5images/d8e28f79c124341c07c1395d37e504ed.gif "Histor of Anthropology Newsletter") [History of Anthropology Newsletter on ScholarlyCommons](http://repository.upenn.edu/han/)
 * [ArcGIS: An Introduction](http://guides.library.upenn.edu/introtoarcgis) This is a placeholder for Deborah.
 * ![MEAD](http://repository.upenn.edu/assets/md5images/78af8fe2331db9620631cf3231775584.gif) [Magazine of Early American Datasets](http://repository.upenn.edu/mead/)
