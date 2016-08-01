@@ -42,7 +42,7 @@ Pictures of course engagements, standalone projects, and developing stuff -  Sar
 * Lexis Nexis API
 * Schuykill River Corps Project
 * Arcana
-* Scott's class about ships with what's-her-name
+* Scott's class about ships
 * [TTCSP Global Go To Think Tank Index Reports](http://repository.upenn.edu/think_tanks/)
 * ![Bellwethe](http://repository.upenn.edu/assets/md5images/d4798301147d16a8bfdbdcd485f24a16.gif "Bellwether Magaine") [Bellwether](http://repository.upenn.edu/bellwether/)
 
