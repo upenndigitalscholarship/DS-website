@@ -40,11 +40,11 @@ Pictures of course engagements, standalone projects, and developing stuff -  Sar
 * [ArcGIS: An Introduction](http://guides.library.upenn.edu/introtoarcgis) This is a placeholder for Deborah.
 * ![MEAD](http://repository.upenn.edu/assets/md5images/78af8fe2331db9620631cf3231775584.gif) [Magazine of Early American Datasets](http://repository.upenn.edu/mead/)
 * Lexis Nexis API
-* ![SRCP](http://lsrcorps.upenndigitalscholarship.org/items/show/2) [Schuylkill River Corps Project](http://lsrcorps.upenndigitalscholarship.org/)
+* (http://lsrcorps.upenndigitalscholarship.org/files/fullsize/85aab30953927752e81ef2e3594ad9fa.jpg) [Schuylkill River Corps Project](http://lsrcorps.upenndigitalscholarship.org/)
 * Arcana
 * Scott's class about ships
 * [TTCSP Global Go To Think Tank Index Reports](http://repository.upenn.edu/think_tanks/)
-* ![Bellwethe](http://repository.upenn.edu/assets/md5images/d4798301147d16a8bfdbdcd485f24a16.gif "Bellwether Magaine") [Bellwether](http://repository.upenn.edu/bellwether/)
+* ![Bellwether](http://repository.upenn.edu/assets/md5images/d4798301147d16a8bfdbdcd485f24a16.gif "Bellwether Magaine") [Bellwether](http://repository.upenn.edu/bellwether/)
 
 ##Other ideas
 * Include an events section - major/annual events (e.g., OA week, Open Data Day, etc.) or more minor events that we do (e.g., workshops)
