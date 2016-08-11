@@ -5,10 +5,10 @@ We are: Seven full-time library staffmembers, student workers, and a connected n
 
 ## Open Access & Publishing
 
-* Deposit Materials in ScholarlyCommons- Sarah (thanks Sasha)
-* Open Access, Publishing, and your rights as an author (Sarah)
+* [Deposit Materials in ScholarlyCommons](http://guides.library.upenn.edu/sc/deposit "Deposit in ScholarlyCommons")
+* [Open Access, Publishing, and your rights as an author](http://guides.library.upenn.edu/oa "Open Access Guide")
 * Researcher Identity ORCID (Sarah will make this page and)
-* Start a Journal or Conference (Sarah)
+* [Start a Journal or Conference] (http://guides.library.upenn.edu/sc/deposit)
 
 
 ## Digital Project Development
