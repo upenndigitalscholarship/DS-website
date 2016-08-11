@@ -7,7 +7,7 @@ We are: Seven full-time library staffmembers, student workers, and a connected n
 
 * [Deposit Materials in ScholarlyCommons](http://guides.library.upenn.edu/sc/deposit "Deposit in ScholarlyCommons")
 * [Open Access, Publishing, and your rights as an author](http://guides.library.upenn.edu/oa "Open Access Guide")
-* Researcher Identity ORCID (Sarah will make this page and)
+* [Researcher Identity ORCID](http://guides.library.upenn.edu/orcid "ORCiD")
 * [Start a Journal or Conference] (http://guides.library.upenn.edu/sc/deposit)
 
 
