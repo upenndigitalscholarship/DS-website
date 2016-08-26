@@ -1,7 +1,14 @@
 # The Digital Scholarship group works to expand the capacity of researchers at Penn to create and share scholarship in new forms.
 
-## People:
-We are: Seven full-time library staffmembers, student workers, and a connected network of collaborators in the library and around campus. - Laurie
+
+## About Us:
+The department was formed in the Spring Semester of 2016, and is just getting underway with new initiatives and activities. We work closely with colleagues throughout the library, and will continue expanding and refining our goals over the coming year. For a preview of our planned activites, check out our goals.
+
+The DS team includes seven full-time library staffmembers, student workers, and a connected network of collaborators in the library and around campus. Our primary activites are aimed to support new forms, media and methods through data curation and management, engaging with developing methods, digital humanities, and project-based work, and with new publishing models, especially open access publishing.
+
+### Fellows:
+Join the DS Fellows program for this year to learn and explore.
+Or apply for a job working in the DS department!
 
 ## Open Access & Publishing
 
